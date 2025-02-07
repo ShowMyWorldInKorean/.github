@@ -1,12 +1,4 @@
 ## Hi there 👋
+# SRNet기반 한글로 세계보기 프로젝트에 오신것을 환영합니다. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+함께하고자 하는 분들은 --> younguk137@naver.com으로 메일을 주세요.
